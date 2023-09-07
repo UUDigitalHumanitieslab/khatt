@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: khatt
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name: >-
+      Research Software Lab, Centre for Digital Humanities,
+      Utrecht University
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8325276
+repository-code: 'https://github.com/UUDigitalHumanitieslab/khatt'
+abstract: Knowledge Hyperlinking and Text Transcription
+license: BSD-3-Clause
+version: 1.0.0
